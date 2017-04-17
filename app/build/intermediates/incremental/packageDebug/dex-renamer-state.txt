@@ -1,0 +1,7 @@
+#Thu Apr 06 04:25:14 EDT 2017
+base.0=/Users/Gautam/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e02ce788caabb0a3c45f92ebc5af008f90d3970
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Gautam/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f074926499f4140166806a9ccc89d42f4eafce2d/classes.dex
+base.1=/Users/Gautam/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f074926499f4140166806a9ccc89d42f4eafce2d
+file.0=/Users/Gautam/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e02ce788caabb0a3c45f92ebc5af008f90d3970/classes.dex
