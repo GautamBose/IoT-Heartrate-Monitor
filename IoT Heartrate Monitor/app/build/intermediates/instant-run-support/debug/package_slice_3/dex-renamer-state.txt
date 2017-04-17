@@ -1,0 +1,4 @@
+#Thu Apr 06 01:32:18 EDT 2017
+base.0=/Users/Gautam/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
+renamed.0=classes.dex
+file.0=/Users/Gautam/Downloads/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex
